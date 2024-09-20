@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/2xe2ipi-repo/static/css/main.daf8d9b3.css",
+    "main.js": "/2xe2ipi-repo/static/js/main.db0a6786.js",
+    "static/media/thresh.jpg": "/2xe2ipi-repo/static/media/thresh.c1bd09bd36f5a62a2d8f.jpg",
+    "static/media/malphite.jpg": "/2xe2ipi-repo/static/media/malphite.cb37cde4339694462cac.jpg",
+    "static/media/jinx.jpg": "/2xe2ipi-repo/static/media/jinx.c30a7eb276cc5989f0bf.jpg",
+    "static/media/drex3.jpg": "/2xe2ipi-repo/static/media/drex3.e5a5a1da368ef93da6e5.jpg",
+    "index.html": "/2xe2ipi-repo/index.html",
+    "main.daf8d9b3.css.map": "/2xe2ipi-repo/static/css/main.daf8d9b3.css.map",
+    "main.db0a6786.js.map": "/2xe2ipi-repo/static/js/main.db0a6786.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.daf8d9b3.css",
+    "static/js/main.db0a6786.js"
+  ]
+}
